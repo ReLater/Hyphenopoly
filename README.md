@@ -1,3 +1,5 @@
+# This is a fork that you should NOT use. Go to original repository: https://github.com/mnater/Hyphenopoly !
+
 # Hyphenopoly.js
 [![Build Status](https://travis-ci.org/mnater/Hyphenopoly.svg?branch=master)](https://travis-ci.org/mnater/Hyphenopoly) [![Coverage Status](https://coveralls.io/repos/github/mnater/Hyphenopoly/badge.svg?branch=master)](https://coveralls.io/github/mnater/Hyphenopoly?branch=master) [![dependencies Status](https://david-dm.org/mnater/Hyphenopoly/status.svg)](https://david-dm.org/mnater/Hyphenopoly) [![devDependencies Status](https://david-dm.org/mnater/Hyphenopoly/dev-status.svg)](https://david-dm.org/mnater/Hyphenopoly?type=dev) [![npms score](https://badges.npms.io/hyphenopoly.svg)](https://npms.io/search?q=hyphenopoly) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/de50e1ae70a64a47b0bd9b5449f89353)](https://www.codacy.com/app/mnater/Hyphenopoly?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mnater/Hyphenopoly&amp;utm_campaign=Badge_Grade)
 
